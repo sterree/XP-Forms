@@ -6,7 +6,7 @@
     "concurrently": "^7.6.0",
     "file-saver": "^2.0.5",
     "i18next": "^26.0.8",
-    "jszip": "^3.10.1",
+    "jszip": "^3.10.2",
     "react-i18next": "^16.6.6"
   },
   "scripts": {
